@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Some of my favorite things: 
+  * Music :musical_note:
+  * Food :sushi:
+  * Soccer :soccer:
