@@ -1,1 +1,1 @@
-(![Link to my GitHub!](https://github.com/chrsam))
+![Link to my GitHub!](https://github.com/chrsam)
